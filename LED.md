@@ -73,12 +73,13 @@
 
 ### 耳机项目
 - 龙旗
+![img_4.png](img_4.png)
 - 文泰
+![img_3.png](img_3.png)
 - 中诺  
-Realme  P16A 1922 红绿双色   
-杰里平台，名创优品 P06A 1942红绿  
-自研 P25A 164X白灯或者红灯  
+![img_1.png](img_1.png)
 - 华勤
+![img_2.png](img_2.png)
 
 
 
