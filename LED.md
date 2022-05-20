@@ -74,7 +74,7 @@
 ### 耳机项目
 - 龙旗
 ![img_4.png](img_4.png)
-- 文泰
+- 闻泰
 ![img_3.png](img_3.png)
 - 中诺  
 ![img_1.png](img_1.png)
@@ -84,7 +84,7 @@
 ### 手机项目
 - 龙旗
 ![img_6.png](img_6.png)
-- 文泰
+- 闻泰
 ![img_7.png](img_7.png)
 ![img_8.png](img_8.png)
 - 中诺
@@ -93,5 +93,16 @@
 ## 指示灯
 - 70迈
 ![img_10.png](img_10.png)
+- 赛嘉
+![img_11.png](img_11.png)
+- 闻泰
+![img_12.png](img_12.png)
+![img_15.png](img_15.png)
+- 龙旗
+![img_16.png](img_16.png)
+- 华勤
+![img_13.png](img_13.png)
+- 高德
+![img_17.png](img_17.png)
 
 
