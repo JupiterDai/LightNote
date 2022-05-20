@@ -81,6 +81,14 @@
 - 华勤
 ![img_2.png](img_2.png)
 
+### 手机项目
+- 龙旗
+![img_6.png](img_6.png)
+- 文泰
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
+- 中诺
+![img_9.png](img_9.png)
 
 
 
