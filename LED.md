@@ -90,5 +90,8 @@
 - 中诺
 ![img_9.png](img_9.png)
 
+## 指示灯
+- 70迈
+![img_10.png](img_10.png)
 
 
