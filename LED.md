@@ -111,3 +111,23 @@
 ![img_17.png](img_17.png)
 
 
+### LED制程
+
+![img_19.png](img_19.png)
+
+#### PCB类  
+固晶----焊线-----压模-----切割-----测试-----包装
+![img_20.png](img_20.png)
+
+![img_21.png](img_21.png)
+
+![img_22.png](img_22.png)
+
+主要原料:胶饼，晶片，固晶胶，导线，PCB板
+
+#### PLCC类
+-正装
+![img_23.png](img_23.png)
+-倒装
+![img_24.png](img_24.png)
+
